@@ -1,4 +1,4 @@
-### Hi there 👋, W. Frank Davis Jr
+### Hi there 👋, W. Frank Davis Jr👨🏾‍💻👨🏾‍🎓
 #### Aspiring Full-Stack Software Developer 
 My name is W. Frank Davis Jr. I’m currently working on building my portfolio to be more robust to help land a dream job as a full-stack developer. I enjoy learning languages and frameworks like HTML, CSS, JS, REACT, etc., and also currently looking for new career opportunities as I transition into a new career path.
 
